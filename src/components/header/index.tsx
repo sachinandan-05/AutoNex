@@ -11,7 +11,7 @@ const navItems = [
   { name: "Templates", href: "#templates", icon: BookOpen },
   { name: "Pricing", href: "#pricing", icon: CreditCard },
   { name: "Community", href: "#community", icon: Users },
-  { name: "GitHub", href: "https://github.com", icon: Github },
+  { name: "GitHub", href: "https://github.com", icon: Github  },
 ];
 
 const Header = () => {
